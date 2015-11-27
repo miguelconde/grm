@@ -1,2 +1,2 @@
 # grm
-Librerias y desarrollos publicos de Grupo Red M
+Librerías y desarrollos públicos de Grupo Red M.
